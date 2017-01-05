@@ -22,4 +22,3 @@ Notes:
     
 Have a good luck!
 mityabeldii(R), MIPT 672
-a
