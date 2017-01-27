@@ -4,7 +4,7 @@ Project list:
  - LABA 1   working with a db    Medinnikov    4
  - LABA 2   scheme               Medinnikov    3
  - LABA 3   table                Teymurazov    1
- - LABA 4   working with a db    Renat         5
+ - LABA 4   working with a db    Hayrullin     5
  - LABA 5   VIEW                 Dadashov      5
  - LABA 6   TRANSACTION          Zyuzin        2
  - LABA 7   USER                 Zyuzin        5
